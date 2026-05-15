@@ -1,0 +1,11 @@
+[project]
+sub_id = "61caa244"
+name = "coze-workflow"
+requires = []
+project_type = ""
+
+[preview]
+preview_enable = "disabled"
+
+[subprojects]
+path = ["."]
